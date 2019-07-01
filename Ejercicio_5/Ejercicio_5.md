@@ -84,8 +84,8 @@ Por tanto, volvemos a calcular el hash de la función _sumValues_:
 
 Con lo que finalmente los identificadores de las funciones serían:
 
->| Firma función             | ID       |
-| ------------------------- | -------- |  
+| Firma función             | ID       |  
+|---------------------------|----------|  
 | sumValues(uint256,uint256)| 27b57fcc |  
 | getGasDetails()           | 3d86f4af |  
 | _callback(bytes32,string) | 27dc297e |  

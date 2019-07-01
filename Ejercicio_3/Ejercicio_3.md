@@ -1,4 +1,4 @@
-#Ejercicio 3 (2 puntos) 
+# Ejercicio 3 (2 puntos) 
 ---
 Inicie la sincronización de la red Rinkeby en su dispositivo (se recomienda ésta frente a Ropsten debido al tamaño de la misma y la velocidad de sincronización).
 Para la realización de este ejercicio no necesita una sincronización completa del nodo.
